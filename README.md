@@ -8,7 +8,7 @@ the GreedyWalk function for each point in the elevation data and then
 displays the pathRow and pathCol for the lowest costing path.
 Inputs: elevationData - a n x m matrix representing the elevations
 Outputs: pathRow - a 1D array containing row numbers for each of the
-                   positions
+                   positions. \n
          pathCol - a 1D array containing column numbers for each of the
                    positions
          elevations - a 1D array containing the elevations of each of the
